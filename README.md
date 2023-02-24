@@ -1,13 +1,18 @@
 # CS-340
 A repository of work completed for Southern New Hampshire University's CS 340 class: Client/Server Development.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-How do you write programs that are maintainable, readable, and adaptable? Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two. What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
+### How do you write programs that are maintainable, readable, and adaptable?  Especially consider your work on the CRUD Python module from Project One, which you used to connect the dashboard widgets to the database in Project Two.  What were the advantages of working in this way? How else could you use this CRUD Python module in the future?
 
-
+I write maintainable, readable, and adaptable programs by following best practices, commenting my code where necessary, scripting in a modular, object-oriented mindset, and considering everyone outside of myself that may take part in developing the code or utilizing the code from the Client's side of things.  Working in a way that allows two separate pieces of software to communicate with one another opens the door to modularity on a grand scale; different software between two companies can be merged without the need to learn something new or implement something new, saving time, money, and headaches (to put it simply).  Disadvantages exist in finding the ways to egg on communication, but once that hurdle is passed, I can only see advantages on the road henceforth.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-How do you approach a problem as a computer scientist? Consider how you approached the database or dashboard requirements that Grazioso Salvare requested. How did your approach to this project differ from previous assignments in other courses? What techniques or strategies would you use in the future to create databases to meet other client requests?
+### How do you approach a problem as a computer scientist?  Consider how you approached the database or dashboard requirements that Grazioso Salvare requested.  How did your approach to this project differ from previous assignments in other courses?  What techniques or strategies would you use in the future to create databases to meet other client requests?
 
-
+As a computer scientist, I approach a problem analytically and logically.  Logic and analysis are key components of the Computer Science field, and data scripting is surprisingly founded on verbal and mental logic prepared beforehand.  Keeping in mind the client's requests, needs, and capabilities, I approached the dashboard requirements for Grazioso Salvare with my computer science knowledge grounded in a fresh, naive, and "inexperienced" perspective; to say differently, I viewed the task as though I was the client, Grazioso Salvare, and what would I as a Grazioso Salvare employee need from this piece of software.  This technique was vital to my successful completion of the task at hand, and it is a technique I will take with me throughout my career.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
-What do computer scientists do, and why does it matter? How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
+### What do computer scientists do, and why does it matter?  How would your work on this type of project help a company, like Grazioso Salvare, to do their work better?
 
+Computer scientists develop the tools that all kinds of businesses rely on to complete tasks and solve problems.  In other words, computer scientists analyze the software and hardware that exist and create uses of/for these pieces of software and hardware in order for these businesses to succeed in their endeavors.  My work on this kind of project for a company such as Grazioso Salvare is pivotal in bettering their company's craft and furthering their company's mission because it evolves their connection to their clients and their work into the continually developing technological universe that we live in today.  Technology evolves at a rapid pace, and my work on a project such as this allows a company to "keep up" with the ever-growing technological revolution.
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+#### Creator
+Ryan Rieth
+CS 340 — Southern New Hampshire University
