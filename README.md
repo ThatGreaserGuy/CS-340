@@ -14,5 +14,4 @@ As a computer scientist, I approach a problem analytically and logically.  Logic
 Computer scientists develop the tools that all kinds of businesses rely on to complete tasks and solve problems.  In other words, computer scientists analyze the software and hardware that exist and create uses of/for these pieces of software and hardware in order for these businesses to succeed in their endeavors.  My work on this kind of project for a company such as Grazioso Salvare is pivotal in bettering their company's craft and furthering their company's mission because it evolves their connection to their clients and their work into the continually developing technological universe that we live in today.  Technology evolves at a rapid pace, and my work on a project such as this allows a company to "keep up" with the ever-growing technological revolution.
 - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
 #### Creator
-Ryan Rieth
-CS 340 — Southern New Hampshire University
+Ryan Rieth — Southern New Hampshire University
